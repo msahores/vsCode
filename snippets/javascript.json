@@ -4,7 +4,7 @@
 		"body": [
 			"const log = console.log",
 			"",
-			"const myFunc = (args) => {",
+			"const myFunc = args => {",
 				"\treturn args",
 			"}",
 			"",
