@@ -1,0 +1,15 @@
+{
+	"Print to console": {
+		"prefix": "basic",
+		"body": [
+			"const log = console.log",
+			"",
+			"const myFunc = (args) => {",
+				"\treturn args",
+			"}",
+			"",
+			"log(myFunc('$1'));",
+		],
+		"description": "basic js template"
+	}
+}
