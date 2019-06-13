@@ -19,7 +19,9 @@
 				"<head>",
 				"</head>",
 				"<body>",
+				"<div id='target'></div>",
 				"$1",
+				"<script src='getEl.js'></script>",
 				"<script src='index.js'></script>",
 				"</body>",
 				"</html>"
