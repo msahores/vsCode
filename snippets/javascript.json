@@ -1,5 +1,5 @@
 {
-	"Print to console": {
+	"Basic": {
 		"prefix": "basic",
 		"body": [
 			"const log = console.log",
@@ -11,5 +11,19 @@
 			"log(myFunc('$1'));",
 		],
 		"description": "basic js template"
-	}
+	},
+	"li": {
+		"prefix": "li",
+		"body": [
+			"<li>$1</li>",
+		],
+		"description": "li tag"
+	},
+	"hr": {
+		"prefix": "hr",
+		"body": [
+			"<hr />",
+		],
+		"description": "hr tag"
+	},
 }

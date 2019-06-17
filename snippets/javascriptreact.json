@@ -1,0 +1,9 @@
+{
+	"Print to console": {
+		"prefix": "li",
+		"body": [
+			"<li>('$1')</li>",
+		],
+		"description": "li tag"
+	}
+}
