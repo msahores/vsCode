@@ -19,6 +19,15 @@
 		],
 		"description": "li tag"
 	},
+	"ul": {
+		"prefix": "ul",
+		"body": [
+			"<ul>",
+			"\t<li>$1</li>",
+			"</ul>",
+		],
+		"description": "unsorted list"
+	},
 	"hr": {
 		"prefix": "hr",
 		"body": [
