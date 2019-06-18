@@ -35,4 +35,11 @@
 		],
 		"description": "hr tag"
 	},
+	"input": {
+		"prefix": "input",
+		"body": [
+			"<input type='text' value='$1'/>",
+		],
+		"description": "input tag"
+	},
 }
