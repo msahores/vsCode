@@ -1,4 +1,18 @@
 {
     "editor.fontSize": 16,
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "prettier.cssEnable": [
+        "css",
+        "less",
+        "scss",
+        "postcss"
+      ],
+      "prettier.javascriptEnable": [
+        "javascript",
+        "javascriptreact"
+      ],
+      "prettier.jsonEnable": [
+        "json"
+      ]
 }
